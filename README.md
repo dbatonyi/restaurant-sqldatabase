@@ -1,5 +1,6 @@
 Restaurant website, with video embed header and reservation fuction
-The menu gets its content from an SQL database.
+
+Contents of a menu originate from one database
 
 Admin panel coming soon...
 
